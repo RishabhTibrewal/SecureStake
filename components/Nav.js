@@ -7,7 +7,7 @@ export default function Nav() {
       <nav className={navStyles.nav}>
         <ul>
             <li>
-                <Link href='/'><h2>Simula</h2></Link>
+                <Link href='/'><h2>SecureStake</h2></Link>
             </li>
         </ul>
         <ul>
